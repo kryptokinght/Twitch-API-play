@@ -8,6 +8,7 @@ li {
 }
 .navHead {
 		font-size: 28px;
+        font-family: 'Lobster', cursive;
 }
 .navbar-custom {
     
@@ -39,3 +40,6 @@ span {
 table {
     color: white;
 }	
+.mahi{
+    margin-top: 80px;
+}
